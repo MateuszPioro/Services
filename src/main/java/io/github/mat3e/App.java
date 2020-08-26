@@ -11,9 +11,7 @@ import org.slf4j.LoggerFactory;
 
 import java.util.logging.Logger;
 
-/**
- * Hello world!
- */
+
 public class App {
     public static void main(String[] args) throws Exception {
         var webapp = new WebAppContext();
